@@ -3,13 +3,19 @@ atcoder:
   user_id: ""
   outdir: "AtCoder/"
   outformat: "file"
+  archive_targets: "ac_latest"
+  git_commit: "none"
 aoj:
   enable: false
   user_id: ""
-  outdir: "AOJ/"
+  out_dir: "AOJ/"
   outformat: "file"
+  archive_targets: "ac_latest"
+  git_commit: "none"
 codeforces:
   enable: false
   user_id: ""
   outdir: "Codeforces/"
   outformat: "file"
+  archive_targets: "ac_latest"
+  git_commit: "none"
