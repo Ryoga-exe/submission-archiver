@@ -1,0 +1,15 @@
+atcoder:
+  enable: true
+  user_id: ""
+  outdir: "AtCoder/"
+  outformat: "file"
+aoj:
+  enable: false
+  user_id: ""
+  outdir: "AOJ/"
+  outformat: "file"
+codeforces:
+  enable: false
+  user_id: ""
+  outdir: "Codeforces/"
+  outformat: "file"
