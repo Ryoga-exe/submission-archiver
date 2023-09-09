@@ -3,6 +3,7 @@ atcoder:
   user_id: ""
   outdir: "AtCoder/"
   outformat: "file"
+  use_index: false
   archive_targets: "ac_latest"
   git_commit: "none"
 aoj:
@@ -10,6 +11,7 @@ aoj:
   user_id: ""
   out_dir: "AOJ/"
   outformat: "file"
+  use_index: false
   archive_targets: "ac_latest"
   git_commit: "none"
 codeforces:
@@ -17,5 +19,6 @@ codeforces:
   user_id: ""
   outdir: "Codeforces/"
   outformat: "file"
+  use_index: false
   archive_targets: "ac_latest"
   git_commit: "none"
